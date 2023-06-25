@@ -6,6 +6,11 @@ This is a basic setup for sveltekit and wails.
 
 It has some issues such as not finding $app. I don't know how to fix these so feel free to commit improvements.
 
+## Maintenance
+I **do not** plan to actively work on this template.
+
+IF you have fixed something, submit a PR and I will merge it.
+
 ## Package Management
 
 By default, this setup uses `PNPM`. If you rather use just NPM or someother JS package manager:
