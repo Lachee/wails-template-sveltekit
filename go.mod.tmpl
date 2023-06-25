@@ -2,7 +2,7 @@ module wails-sveltekit
 
 go 1.18
 
-require github.com/wailsapp/wails/v2 v2.5.1
+require github.com/wailsapp/wails/v2 {{.WailsVersion}}
 
 require (
 	github.com/bep/debounce v1.2.1 // indirect
@@ -30,4 +30,4 @@ require (
 	golang.org/x/text v0.7.0 // indirect
 )
 
-// replace github.com/wailsapp/wails/v2 v2.5.1 => C:\Users\lachl\go\pkg\mod
+// replace github.com/wailsapp/wails/v2 {{.WailsVersion}} => {{.WailsDirectory}}

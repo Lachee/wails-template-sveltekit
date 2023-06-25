@@ -1,0 +1,7 @@
+{
+    "name": "Wails-Template-SvelteKit",
+    "shortname": "Wails-Template-SvelteKit",
+    "author": "Lachee",
+    "description": "Sveltekit template for wails that Lachee personally uses",
+    "helpurl": "https://github.com/Lachee/wails-template-sveltekit"
+  }
